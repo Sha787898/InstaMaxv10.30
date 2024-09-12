@@ -1,6 +1,6 @@
 
 {
-  "show_message": true,
+  "show_message": false,
   "title": "Telegram Chanel For Update",
   "content_url": "https://raw.githubusercontent.com/Sha787898/InstaMaxv10.30/main/is_verified.json",
   "positive_btn": "Join Now",
